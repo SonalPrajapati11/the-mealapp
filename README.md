@@ -1,4 +1,4 @@
-🪧 Demo :-  
+🪧 Demo :-  https://sonalprajapati11.github.io/the-mealapp/
 
 ---
 About the Project :-
